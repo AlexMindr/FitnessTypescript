@@ -32,17 +32,17 @@ In this section we can see the sticky navigation and there is an animation for e
 
 In this section we have a scrolling horizontal gallery and details about each class on hover.
 
-![Our Classes](_readmeimg/ourclasses.png)
+![Our Classes](_readmeimg/ourclasses.PNG)
 
 ##### Contact us section
 
 In this section we have a form with data which users can send to the gym's email.
 
-![Contact Us](_readmeimg/contactus.png)
+![Contact Us](_readmeimg/contactus.PNG)
 
 ##### Footer section
 
-![Footer](_readmeimg/footer.png)
+![Footer](_readmeimg/footer.PNG)
 
 ### What I learned?
 
