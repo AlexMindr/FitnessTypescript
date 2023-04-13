@@ -1,6 +1,6 @@
 ## Fitness Application
 
-[DEMO](https://ec81b14b.alexfitnessgym.pages.dev/)
+[DEMO](https://4a6c2318.alexfitnessgym.pages.dev/)
 
 A responsive frontend app made with ReactTs presenting a gym company.
 
@@ -16,13 +16,13 @@ Other technologies/libraries used:
 
 ### App presentation
 
-##### Home section
+#### Home section
 
 In the home section we have a nice animation on first page load and a button redirecting us to the contact us section.
 
 ![Home](_readmeimg/home.PNG)
 
-##### Benefits section
+#### Benefits section
 
 In this section we can see the sticky navigation and there is an animation for each part of the benefit section.
 
@@ -30,19 +30,19 @@ In this section we can see the sticky navigation and there is an animation for e
 
 ![Benefits2](_readmeimg/benefits2.PNG)
 
-##### Our Classes section
+#### Our Classes section
 
 In this section we have a scrolling horizontal gallery and details about each class on hover.
 
 ![Our Classes](_readmeimg/ourclasses.PNG)
 
-##### Contact us section
+#### Contact us section
 
 In this section we have a form with data which users can send to the gym's email.
 
 ![Contact Us](_readmeimg/contactus.PNG)
 
-##### Footer section
+#### Footer section
 
 ![Footer](_readmeimg/footer.PNG)
 
