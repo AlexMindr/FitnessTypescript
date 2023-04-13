@@ -1,5 +1,7 @@
 ## Fitness Application
 
+[DEMO](https://ec81b14b.alexfitnessgym.pages.dev/)
+
 A responsive frontend app made with ReactTs presenting a gym company.
 
 Complex responsive layouts and animations of different types in each page on section enter.
